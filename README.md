@@ -11,7 +11,6 @@ This repository contains my solutions for the SIG Week 1 Bash scripting assignme
 - Q5 - Compare two files and remove the duplicate if both files are identical
 - Q6 - Check whether a number is a palindrome
 - Q7 - Print the multiplication table of a given number
-
-Each solution is implemented as a separate Bash (`.sh`) script using standard shell scripting concepts such as variables, loops, conditionals, arithmetic operations, file handling, and user input.
-
-> **Note:** I am currently working on the remaining assignments and will update this repository as they are completed.
+- Q8 - Search recently modified log files and generate a summary report
+- Q9 - Generate a system health report
+- Q10 - Generate secure random passwords with customizable length and count
